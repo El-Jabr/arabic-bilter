@@ -2,6 +2,15 @@ main img{
     height: 200px;
 }
 
+#bab-8{
+    padding-bottom: 75px;
+}
+
+#ph-arab-bab-8{
+    margin-bottom: 38px;
+}
+
+
 .navbar-brand:hover{
     background-color: rgb(17, 57, 145);
     color: aliceblue;
