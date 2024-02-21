@@ -39,6 +39,11 @@ main img{
     transform: scaleX(0.5);
 }
 
+/* .col-md{
+    transition: 0.2s;
+    transform-origin: 0 0;
+} */
+
 @media (max-width: 758px) {
     .nav-item a::after {
         transform-origin: 0 0;
