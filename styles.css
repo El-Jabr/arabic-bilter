@@ -44,6 +44,11 @@ main img{
     transform-origin: 0 0;
 } */
 
+.card {
+    min-width: 300px;
+    min-height: 45rem;
+}
+
 @media (max-width: 758px) {
     .nav-item a::after {
         transform-origin: 0 0;
