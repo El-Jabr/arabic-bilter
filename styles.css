@@ -44,6 +44,10 @@ main img {
     transform-origin: 0 0;
 } */
 
+#show-on-focus {
+
+}
+
 .card {
     min-width: 300px;
 }
