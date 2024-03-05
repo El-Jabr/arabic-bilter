@@ -40,8 +40,7 @@ main img {
 }
 
 /* .col-md{
-    transition: 0.2s;
-    transform-origin: 0 0;
+    min-height: 1000px;
 } */
 
 #show-on-focus {
@@ -50,10 +49,14 @@ main img {
 
 .card {
     min-width: 300px;
+    min-height: 450px;
+    padding-top: 20px;
 }
 
-.card-bab {
-    min-height: 43rem;
+.card-kelas-7 {
+    min-width: 300px;
+    min-height: 650px;
+    padding: 20px 10px 20px 10px;
 }
 
 .card-bab-2 {
